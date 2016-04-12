@@ -1,5 +1,3 @@
 # card-game
 
-
-
 OOPs example
